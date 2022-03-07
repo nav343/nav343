@@ -2,7 +2,7 @@
 # Hi, I'm Navaneeth K (@SnmLogic)! 👋
 
 ## 🚀 About Me
-I am a beginner programmer learning Python, I have some experience writing code in Python and JavaScript, I love making websites and apps using React and React-native. I am the developer and owner of **NavLang**. Talking about NavLang, It is an open source programming language made in Python, you can download and see the source code here :- https://github.com/SnmLogic/Nav-Language.
+I am a beginner programmer learning Python, I have some experience writing code in Python and JavaScript, I love making websites and apps using React and React-native. I am the developer and owner of **SlothLang**. Talking about SlothLang, It is an open source programming language made in Python, you can download and see the source code here :- https://github.com/SnmLogic/SlothLang.
 The Language is currently under development, you may encounter *Errors*.
 
 ## 🔗 My Works
@@ -24,9 +24,9 @@ The Language is currently under development, you may encounter *Errors*.
 ![py](https://img.shields.io/badge/-Python%20-orange)
 
 ## Other
-👩‍💻 I'm currently working on NavLang.
+👩‍💻 I'm currently working on SlothLang.
 
-🧠 I'm currently learning c.
+🧠 I'm currently learning rust.
 
 📫 Reach me at `snmlogic111@gmail.com`
 
