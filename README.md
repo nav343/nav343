@@ -1,5 +1,5 @@
 
-# Hi, I'm No One (@Navaneeth)! 👋
+# Hi, I'm lanthanum (@SnmLogic)! 👋
 
 ## 🚀 About Me
 Just another normal guy trying to create something (and is failing most of the time xD).
