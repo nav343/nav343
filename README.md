@@ -1,13 +1,12 @@
 
-# Hi, I'm No One (@SnmLogic)! 👋
+# Hi, I'm No One (@Navaneeth)! 👋
 
 ## 🚀 About Me
-I am a beginner programmer learning Python, I have some experience writing code in Python and JavaScript, I love making websites and apps using React and React-native. I am the developer and owner of **SlothLang**. Talking about SlothLang, It is an open source programming language made in Python, you can download and see the source code here :- https://github.com/SnmLogic/SlothLang.
-The Language is currently under development, you may encounter *Errors*.
+Just another normal guy trying to create something (and is failing most of the time xD).
 
 ## 🔗 My Works
 - ### My Portfolio website
-[![web](https://cdn.discordapp.com/attachments/912182674418982985/928943573641072670/unknown.png)](snm-logic-official.web.app)
+[![web](https://cdn.discordapp.com/attachments/912182674418982985/964544643284996096/unknown.png)](snm-logic-official.web.app)
 
 
 - ### Other
@@ -24,10 +23,10 @@ The Language is currently under development, you may encounter *Errors*.
 ![py](https://img.shields.io/badge/-Python%20-orange)
 
 ## Other
-👩‍💻 I'm currently working on SlothLang.
+👩‍💻 I'm currently working on TailLogs.
 
-🧠 I'm currently learning rust.
+🧠 I'm currently learning cpp.
 
 📫 Reach me at `snmlogic111@gmail.com`
 
-⚡️ Fun fact :- I am 13 yrs old.
+⚡️ Fun fact :- I am 14 yrs old.
