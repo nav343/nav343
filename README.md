@@ -22,7 +22,7 @@ Just another normal guy trying to create something (and is failing most of the t
 ![REACT](https://img.shields.io/badge/-REACT%20-darkblue)
 ![py](https://img.shields.io/badge/-Python%20-orange)
 
-## Stats
+## Status
 [![lanthanum's](https://github-readme-stats.vercel.app/api?username=SnmLogic&show_icons=true&theme=cobalt&include_all_commits=true) 
 
 [![lanthanum's](https://github-readme-stats.vercel.app/api/top-langs/?username=snmlogic&theme=cobalt)
