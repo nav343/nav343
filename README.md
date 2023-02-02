@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nav343&label=Profile%20views&color=0e75b6&style=flat" alt="nav343" /> </p>
 
-- 🔭 I’m currently working on [boronLang](https://github.com/nav343/boronlang)
+- 🔭 I’m currently working on [Boron](https://github.com/nav343/Boron.bor)
 
-- 🌱 I’m currently learning **NearleyJS**
+- 🌱 I’m currently learning **Typescript and language creation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nav343](https://github.com/nav343)
 
-- 💬 Ask me about **React, React Native**
+- 💬 Ask me about **React, React Native or Typescript**
 
 - ⚡ Fun fact **I am 14**
 
