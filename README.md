@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **React, React Native or Typescript**
 
-- ⚡ Fun fact **I am 14**
-
 <p align="left">
 </p>
 
